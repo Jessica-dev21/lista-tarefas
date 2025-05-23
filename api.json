@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "titulo": "Fazer exercícios por 30 minutos.",
+      "descricao": "Segunda",
+      "id": 1
+    },
+    {
+      "titulo": "Ler 20 páginas de um livro.",
+      "descricao": "Duran o intervalo de almoço",
+      "id": 2
+    }
+  ]
+}
